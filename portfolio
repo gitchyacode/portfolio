@@ -5,7 +5,23 @@
         <title>My Portfolio</title>
     </head>
     <body>
-        <h1></h1>
+        <nav>
+            <h2>Eric Martinez</h2>
+            <ul class="navigation-items">
+                <li class="navigation-item">
+                    <a href="#about-me">About Me</a>
+                </li>
+                <li class="navigation-item">
+                    <a href="#projects">Projects</a>
+                </li>
+                <li class="navigation-item">
+                    <a href="#skills">Skills</a>
+                </li>
+                <li class="navigation-item">
+                    <a href="#contact">Contact</a>
+                </li>
+            </ul>
+        </nav>
 
         <main>
 
