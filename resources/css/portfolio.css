@@ -9,11 +9,16 @@ h1 {
     align-items: center;
     margin: 0;
     margin-left: auto;
-  }
+}
   
-  .navigation-item {
+.navigation-item {
     margin: var(--spacing-1);
-  }
+}
 
-
+.about-me-container {
+    display: flex;
+}
   
+.about-me-text-container {
+    margin-right: var(--spacing-3);
+}
