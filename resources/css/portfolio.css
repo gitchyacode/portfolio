@@ -22,3 +22,20 @@ h1 {
 .about-me-text-container {
     margin-right: var(--spacing-3);
 }
+
+.thick-red-border {
+    border-color: red; 
+    border-width: 15px; 
+    border-style: outset; 
+    border-radius: 50%
+}
+
+.smaller-image {
+    width: 500px; 
+    margin: 5em;
+}
+
+
+
+
+
