@@ -1,6 +1,14 @@
 <!DOCTYPE html>
 <html>
-    <h1>
-        Hi
-    </h1>
+    <head>
+        <link href.="./resources/css/portfolio.css" type="text/css" rel="stylesheet">
+        <title>Eric Martinez</title>
+    </head>
+    <body>
+        <h1></h1>
+
+        <main>
+
+        </main>
+    </body>
 </html>
