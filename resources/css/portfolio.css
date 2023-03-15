@@ -102,9 +102,38 @@ details {
     margin: 0 var(--spacing-1);
 }
 
+/*
+.progress {
+    display: inline;
+}
+*/
+
+/*
 section {
     
     padding: 25px 0px 10px 0px;
+}
+*/
+
+.projects {
+    padding: 25px 0px 10px 0px;
+}
+
+.skills {
+    display: flex;
+    padding: 25px 0px 0px 0px;
+}
+
+.icons {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#skill-title {
+    padding: 25px 0px 0px 0px;
 }
 
 #logo {
@@ -112,10 +141,10 @@ section {
 }
 
 #skills-container {
-    display: flex;
+    display: inline-block;
     width: 100%;
     justify-content: space-between;
-    flex-wrap: wrap;
+    flex-direction: column;
 }
 
 
