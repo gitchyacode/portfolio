@@ -49,6 +49,12 @@ nav {
     padding: var(--spacing-3) 0;
 }
 
+footer {
+    text-align: center;
+    margin-top: auto;
+    padding: 3px 0px 25px 0px; 
+}
+
 .navigation-items {
     display: flex;
     list-style-type: none;
@@ -90,6 +96,12 @@ details {
     display: inline;
 }
 
+.icon {
+    font-size: 2em;
+    color: var(--font-color);
+    margin: 0 var(--spacing-1);
+}
+
 section {
     
     padding: 25px 0px 10px 0px;
@@ -98,6 +110,21 @@ section {
 #logo {
     margin: 0;
 }
+
+#skills-container {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+
+#skills-container > * {
+    font-size: 2em;
+    width: 2em;
+    margin-top: var(--spacing-1);
+}
+
 
 
 
