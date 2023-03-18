@@ -88,6 +88,10 @@ footer {
     margin: inherit;
 }
 
+.project-image {
+    width: 50%;
+}
+
 details {
     cursor: pointer;
 }
